@@ -1,8 +1,11 @@
-# React + Vite
+# Todo Using React.js and Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Deployment link = https://my-todo-react-sable.vercel.app/
 
-Currently, two official plugins are available:
+simple todo ui made using react and tailwind
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+key takeaways:
+
+1.context api
+2.local storage 
+3.js spread operator 
